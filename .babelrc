@@ -1,0 +1,7 @@
+{
+  "presets": ["node6"],
+  "plugins": [
+    "transform-class-properties",
+    "babel-plugin-transform-async-to-generator"
+  ]
+}
